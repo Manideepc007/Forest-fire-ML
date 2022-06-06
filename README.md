@@ -136,7 +136,3 @@
 [mongodb]: https://www.mongodb.com/
 [flask]: https://flask.palletsprojects.com/en/2.1.x/
 [sklearn]: https://scikit-learn.org/stable/
-
-<!--contact-->
-[reach_linkedin]: https://www.linkedin.com/in/manideep-chinthalapally/
-[reach_gmail]: mailto:manimanideep345@gmail.com?subject=Github
